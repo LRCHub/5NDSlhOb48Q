@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "さよならメモリーズ",
+  "base_artist": "supercell",
+  "createdAt": "2026-02-07T23:35:57.709432Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さよならメモリーズ",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/01_さよならメモリーズ_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sayonara Memories [さよならメモリーズ]",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/02_Sayonara_Memories_[さよならメモリーズ]_supercell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "さよならメモリーズ",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/03_さよならメモリーズ_supercell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sayonara Memories (さよならメモリーズ)",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/04_Sayonara_Memories_(さよならメモリーズ)_supercell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "さよならメモリーズ (Sayonara Memories)",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/05_さよならメモリーズ_(Sayonara_Memories)_supercell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "さよならメモリーズ -Instrumental-",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/06_さよならメモリーズ_-Instrumental-_supercell.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "さよならメモリーズ -Instrumental-",
+      "artist": "supercell feat. やなぎなぎ",
+      "has_synced": true,
+      "path": "select/07_さよならメモリーズ_-Instrumental-_supercell_feat._やなぎなぎ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "さよならメモリーズ",
+      "artist": "POP'N STAR",
+      "has_synced": false,
+      "path": "select/08_さよならメモリーズ_POP'N_STAR.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "さよならメモリーズ",
+      "artist": "supercell feat. やなぎなぎ",
+      "has_synced": true,
+      "path": "select/09_さよならメモリーズ_supercell_feat._やなぎなぎ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよならメモリーズ",
+      "artist": "supercell",
+      "has_synced": false,
+      "path": "select/pl_01_さよならメモリーズ_supercell.txt"
+    }
+  ]
+}
